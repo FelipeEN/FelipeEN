@@ -1,16 +1,7 @@
 
 # Olá eu sou Felipe Sena
-
-
-
-
 ## Sobre
-
-
-
 - Eu sou desenvolvedor Full Stack, estudo no Senai Cimatec e na Anhaguera.
-- Company 2
-
 
 ## Tecnologias atual
 - Linguagem Principal: Java
