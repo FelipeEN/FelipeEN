@@ -4,9 +4,9 @@
 - Eu sou desenvolvedor Full Stack, estudo no Senai Cimatec e na Anhaguera.
 
 ## Tecnologias atual
-- Linguagem Principal: Java
+- Linguagem Principal: JavaScript(Node,React) 
 - Back End: Java | Sql | NodeJs
-- Front End: HTML | CSS | JavaScript
+- Front End: HTML | CSS | JavaScript | React
 - Controlador do Código: Git e GitHub
 - IDE: VsCode | InteliJ | MySql | PostgreSql
 ## Contatos
