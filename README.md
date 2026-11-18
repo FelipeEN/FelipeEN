@@ -3,7 +3,7 @@
 ## Sobre
 - Eu sou desenvolvedor Full Stack, estudo no Senai Cimatec e na Anhaguera.
 
-## Tecnologias atual
+## Tecnologia atual
 - Linguagem Principal: JavaScript(Node,React) 
 - Back End: Java | Sql | NodeJs
 - Front End: HTML | CSS | JavaScript | React
